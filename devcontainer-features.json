@@ -1,0 +1,8 @@
+{
+    "features": [
+        {
+            "id": "landodevcontainer",
+            "name": "Lando Launcher for Dev Container"
+        }
+    ]
+}
